@@ -16,6 +16,7 @@ from graypy.handler import (
     GELFTCPHandler,
     GELFTLSHandler,
     GELFHTTPHandler,
+    GELFHTTPSHandler,
     WAN_CHUNK,
     LAN_CHUNK,
 )
